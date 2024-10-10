@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(153, 216, 247);
+}
+.cur{
+    font-style: italic;
+}
+.bold{
+    font-weight: bold;
+
+}
+ol{
+    list-style-type: lower-roman;
+}
+.sq{
+    list-style-type: square;
+}
+.ci{
+list-style-type: disc;
+}
+.fnt{
+    font-family: Arial;
+}
